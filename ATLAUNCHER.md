@@ -1,3 +1,7 @@
+layout: page
+title: "ATLAUNCHER"
+permalink: /guides
+
 # Installing ATLauncher
 
 ATLauncher is the most recommended and most reliable way to play Cinderstone Studios modpacks, and works across all major operating systems. It's a good starting point for troubleshooting seemingly inexplicable crashes and other issues with running a modpack, if something like the Curseforge Launcher is giving you troubles. To install it, do the following:
